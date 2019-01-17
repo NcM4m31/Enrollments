@@ -1,4 +1,4 @@
-spool C:\Users\dmuha\Desktop\IS480(Fall2018)\Project\setup.txt
+spool C:\setup.txt
 
 set echo on;
 set serveroutput on;
@@ -502,4 +502,4 @@ spool off;
 	
 	
 
---start C:\Users\dmuha\Desktop\IS480(Fall2018)\Project\setup.sql
+--start C:\setup.sql
